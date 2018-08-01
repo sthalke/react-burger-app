@@ -1,6 +1,6 @@
 import React from 'react';
 
-import Aux from '../Aux'
+import Aux from '../Auxiliary'
 import Modal from '../../components/UI/Modal/Modal'
 
 const withErrorHendler = (WrappedComponent) => {
